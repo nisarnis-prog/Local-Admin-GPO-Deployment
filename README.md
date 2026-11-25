@@ -1,3 +1,8 @@
+<picture>
+  <source media="(max-width: 640px)" srcset="assets/portfolio/hero-mobile.svg" />
+  <img src="assets/portfolio/hero.svg" width="1200" alt="Local Administrator GPO Deployment — Nisar Muhammad" />
+</picture>
+
 # Local Administrator GPO Deployment
 
 **Author:** Nisar Muhammad  
